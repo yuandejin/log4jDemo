@@ -5,8 +5,8 @@ import org.apache.log4j.Logger;
 public class Test {
 	private static Logger logger = Logger.getLogger(Test.class);  
 
-    /** 
-     * @param args 
+    /** master
+     * @param args ydj
      */  
     public static void main(String[] args) {  
         // System.out.println("This is println message.");  
